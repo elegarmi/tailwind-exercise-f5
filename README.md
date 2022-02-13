@@ -1,5 +1,5 @@
 # Tailwind exercise
-Part of (this repository)[https://github.com/elegarmi/exercises-f5] for Factoría f5 exercises.
+Part of [this repository](https://github.com/elegarmi/exercises-f5) for Factoría f5 exercises.
 
 ## Stack
 - HTML
@@ -9,8 +9,8 @@ Part of (this repository)[https://github.com/elegarmi/exercises-f5] for Factorí
 ## Description
 
 5. Utilizando Bootstrap o Tailwind CSS reproducir el sketch proporcionado - (05-bootstrap-tailwind)
-(Material)[https://www.figma.com/file/omX2O0qCLb3tL9Owf41qH4/Cities-in-the-world]
-Disponible en (este repositorio)[https://github.com/elegarmi/tailwind-exercise-f5]
+[Material](https://www.figma.com/file/omX2O0qCLb3tL9Owf41qH4/Cities-in-the-world)
+Disponible en [este repositorio](https://github.com/elegarmi/tailwind-exercise-f5)
 
 ## By
 Elena Garzón Mieres
