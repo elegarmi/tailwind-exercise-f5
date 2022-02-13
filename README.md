@@ -1,5 +1,5 @@
-# Exercises F5
-Tailwind exercise, part of this repository for Factoría f5 exercises.
+# Tailwind exercise
+Part of (this repository)[https://github.com/elegarmi/exercises-f5] for Factoría f5 exercises.
 
 ## Stack
 - HTML
